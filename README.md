@@ -47,8 +47,6 @@ ASIR → Cybersecurity Engineering student
 
 # > system stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO\&theme=dark\&hide_border=true\&bg_color=000000\&title_color=00ff00\&text_color=00ff00)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmeSmurfink&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)
 
