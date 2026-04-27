@@ -1,53 +1,53 @@
-# > whoami
+# > booting system...
 
-👨‍💻 ASIR → Ingeniería en Ciberseguridad
-🛡️ Interesado en pentesting, redes y hardening
-📍 España
+```bash
+> whoami
+ASIR → Cybersecurity Engineering student
 
----
+> loading modules...
 
-# > skills
+[OK] Linux
+[OK] Networking
+[OK] Security
 
-💻 Sistemas
-
-* Linux (Debian, Ubuntu, Kali)
-
-🌐 Redes
-
-* VLANs, routing, switching
-
-🔐 Seguridad
-
-* nmap
-* Wireshark
-* Metasploit
-* Hardening básico
+> access granted
+```
 
 ---
 
-# > projects
+```bash
+> skills --list
 
-🔹 Análisis de seguridad en entorno Linux
-Exploración de ciberseguridad: escaneo de red, análisis de servicios y detección de vulnerabilidades en laboratorio.
-
-🔹 Scripts de automatización
-Desarrollo de scripts en Python/Bash para automatizar tareas en sistemas.
-
----
-
-# > learning
-
-📚 Actualmente
-
-* Pentesting
-* Seguridad en redes
-* Análisis de tráfico
++ Linux (Debian, Ubuntu, Kali)
++ VLANs / Routing / Switching
++ nmap / Wireshark / Metasploit
++ Hardening
+```
 
 ---
 
-# > contact
+```bash
+> projects --load
 
-📫 LinkedIn: https://www.linkedin.com/in/meritxelllopezsatorres/
+[1] Security analysis lab (Linux)
+[2] Automation scripts (Python/Bash)
+```
+
+---
+
+```bash
+> current_focus
+
+[~] Pentesting
+[~] Network security
+[~] Traffic analysis
+```
+
+---
+
+# > system stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO\&theme=dark\&hide_border=true\&bg_color=000000\&title_color=00ff00\&text_color=00ff00)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmeSmurfink&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)
