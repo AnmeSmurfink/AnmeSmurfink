@@ -48,3 +48,6 @@ Desarrollo de scripts en Python/Bash para automatizar tareas en sistemas.
 # > contact
 
 📫 LinkedIn: https://www.linkedin.com/in/meritxelllopezsatorres/
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&theme=dark)
+
