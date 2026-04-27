@@ -49,5 +49,8 @@ Desarrollo de scripts en Python/Bash para automatizar tareas en sistemas.
 
 📫 LinkedIn: https://www.linkedin.com/in/meritxelllopezsatorres/
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmeSmurfink&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmeSmurfink&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)
 
