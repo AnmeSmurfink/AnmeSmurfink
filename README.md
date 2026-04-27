@@ -1,16 +1,50 @@
-## Hi there 👋
+# > whoami
 
-<!--
-**AnmeSmurfink/AnmeSmurfink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 ASIR → Ingeniería en Ciberseguridad
+🛡️ Interesado en pentesting, redes y hardening
+📍 España
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# > skills
+
+💻 Sistemas
+
+* Linux (Debian, Ubuntu, Kali)
+
+🌐 Redes
+
+* VLANs, routing, switching
+
+🔐 Seguridad
+
+* nmap
+* Wireshark
+* Metasploit
+* Hardening básico
+
+---
+
+# > projects
+
+🔹 Análisis de seguridad en entorno Linux
+Exploración de ciberseguridad: escaneo de red, análisis de servicios y detección de vulnerabilidades en laboratorio.
+
+🔹 Scripts de automatización
+Desarrollo de scripts en Python/Bash para automatizar tareas en sistemas.
+
+---
+
+# > learning
+
+📚 Actualmente
+
+* Pentesting
+* Seguridad en redes
+* Análisis de tráfico
+
+---
+
+# > contact
+
+📫 LinkedIn: https://www.linkedin.com/in/meritxelllopezsatorres/
